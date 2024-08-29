@@ -35,15 +35,15 @@ This template is made for competitive programming using `C++` language.
 
 ---
 
-- [Graph Traversing (DFS, BFS)](https://github.com/7oSkaaa/CP-Templates/blob/main/Graph.cpp)&nbsp;<a href='Graph.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Dijkstra](https://github.com/7oSkaaa/CP-Templates/blob/main/Dijkstra.cpp)&nbsp;<a href='Dijkstra.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Floyd](https://github.com/7oSkaaa/CP-Templates/blob/main/Floyd.cpp)&nbsp;<a href='Floyd.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Prim](https://github.com/7oSkaaa/CP-Templates/blob/main/Prim.cpp)&nbsp;<a href='Prim.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Binary Search Tree](https://github.com/7oSkaaa/CP-Templates/blob/main/Binary_Search_Tree.cpp)&nbsp;<a href='Binary_Search_Tree.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Centroid Decomposition](https://github.com/7oSkaaa/CP-Templates/blob/main/Centroid_Decomposition.cpp)&nbsp;<a href='Centroid_Decomposition.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Lowest Common Ancestor](https://github.com/7oSkaaa/CP-Templates/blob/main/LCA.cpp)&nbsp;<a href='LCA.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [Lowest Common Ancestor Weighted](https://github.com/7oSkaaa/CP-Templates/blob/main/LCA_Weighted.cpp)&nbsp;<a href='LCA_Weighted.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
-- [SQRT Decomposition + Mo’s Algorithm on Tree](https://github.com/7oSkaaa/CP-Templates/blob/main/MO_Tree.cpp)&nbsp;<a href='MO_Tree.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Graph Traversing (DFS, BFS)](https://github.com/EbEmad/Cp_Templates/blob/main/Graph.cpp)&nbsp;<a href='Graph.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Dijkstra](https://github.com/EbEmad/Cp_Templates/blob/main/Dijkstra.cpp)&nbsp;<a href='Dijkstra.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Floyd](https://github.com/EbEmad/Cp_Templates/blob/main/Floyd.cpp)&nbsp;<a href='Floyd.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Prim](https://github.com/EbEmad/Cp_Templates/blob/main/Prim.cpp)&nbsp;<a href='Prim.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Binary Search Tree](https://github.com/EbEmad/Cp_Templates/blob/main/Binary_Search_Tree.cpp)&nbsp;<a href='Binary_Search_Tree.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Centroid Decomposition](https://github.com/EbEmad/Cp_Templates/blob/main/Centroid_Decomposition.cpp)&nbsp;<a href='Centroid_Decomposition.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Lowest Common Ancestor](https://github.com/EbEmad/Cp_Templates/blob/main/LCA.cpp)&nbsp;<a href='LCA.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [Lowest Common Ancestor Weighted](https://github.com/EbEmad/Cp_Templates/blob/main/LCA_Weighted.cpp)&nbsp;<a href='LCA_Weighted.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
+- [SQRT Decomposition + Mo’s Algorithm on Tree](https://github.com/EbEmad/Cp_Templates/blob/main/SQRT_Decomp.cpp)&nbsp;<a href='MO_Tree.cpp'><img src="https://img.icons8.com/color/48/000000/downloads.png" width="20px"/></a>
 <br><br><br>
 
 ### Data Structures
